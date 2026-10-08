@@ -269,16 +269,3 @@ https://omnipathdb.org/
 Proceedings of the National Academy of Sciences (PNAS)
 DOI: `10.1073/pnas.0908486107`
 https://doi.org/10.1073/pnas.0908486107
-
-
-## Model Summary
-
-**Sender:** Microglia  
-**Ligand:** TNF  
-**Signal type:** Paracrine  
-**Extracellular space:** CNS extracellular environment  
-**Receiver:** Astrocyte  
-**Receptor:** TNFRSF1A  
-**Key intracellular components:** MADD, NSMAF, SPATA2  
-**Major pathway:** TNF signaling pathway  
-**Major response:** Pro-inflammatory cytokine secretion and reactive astrogliosis
